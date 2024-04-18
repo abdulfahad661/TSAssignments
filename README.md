@@ -1,2 +1,2 @@
 # TSAssignments
-Typescript Assignment Abdul Fahad PIAIC107341
+Typescript Assignments Abdul Fahad PIAIC107341
