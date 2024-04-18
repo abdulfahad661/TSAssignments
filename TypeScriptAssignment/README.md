@@ -1,7 +1,7 @@
 # TSAssignments
 Typescript Assignment Abdul Fahad PIAIC107341
 
-Compile and Run Your TypeScript Code
+Compile and Run TypeScript Code
 
 ////////////
 
